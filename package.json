@@ -1,0 +1,28 @@
+{
+    "name": "fivem-stats-api",
+    "version": "1.0.0",
+    "description": "Simple module for fetching info from the FiveM API",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/TheRealToxicDev/fivem-stats-api"
+    },
+    "keywords": [
+      "FiveM",
+      "Api",
+      "discord",
+      "fivem stats"
+    ],
+    "author": "TheRealToxicDev",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^12.4.1",
+      "request": "^2.88.2"
+    },
+    "bugs": {
+      "url": "https://github.com/TheRealToxicDev/fivem-stats-api/issues"
+    }
+  }
