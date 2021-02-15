@@ -3,11 +3,6 @@ Small package in order to interact with FiveM API
 
 **How-to install :**
 
-```
-npm i discord-fivem-api
-```
-**NPM:** [npmjs.com/discord-fivem-api](https://www.npmjs.com/package/discord-fivem-api)
-
 **How-to use :** 
 Here is an example to display the number of players online on a server.
 
